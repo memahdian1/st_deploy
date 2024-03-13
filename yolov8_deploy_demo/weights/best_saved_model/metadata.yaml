@@ -1,0 +1,21 @@
+description: Ultralytics best model trained on /home/mehrabmahdian/GDDataset_yolo_V4/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-02-20T08:39:20.969097'
+version: 8.1.16
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Aluminium Foil
+  1: Branch
+  2: Dark Glass Bottle
+  3: Metal Can Bottle
+  4: Metal Can Container
+  5: Opaque Plastic Bottle
+  6: PET-PP
+  7: Plastic Bottle
+  8: styrofoam
